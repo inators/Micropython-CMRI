@@ -11,6 +11,7 @@
 *.sln.docstates
 
 .vscode/
+pico-go.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
